@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+One D is a road sign, marking the contentious geographical definition of home. 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### More Information
+
+Ashton Kinley is an undergraduate student at the University of British Columbia in Kelowna, BC, Canada.
 
 ### Contact me
 
