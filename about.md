@@ -13,4 +13,4 @@ Ashton Kinley is an undergraduate student at the University of British Columbia 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kinley.ashton@gmail.com](mailto:email@domain.com)
